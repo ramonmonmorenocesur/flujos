@@ -1,3 +1,4 @@
+package clases;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -5,7 +6,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 public class FlujoBytes {
-    public static void main(String[] args) throws IOException {
+    public static void inicio() throws IOException {
         escribir();
         leer();
         System.out.println();

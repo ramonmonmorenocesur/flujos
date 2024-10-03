@@ -1,7 +1,8 @@
+package clases;
 import java.io.File;
 
-public class App2 {
-    public static void main(String[] args) {
+public class Directorios {
+    public static void inicio() {
         // listar directorios y ficheros de nuestro directorio de trabajo.
         // ficheros lleva una F antes.
         // directorios llevan una D delante.
